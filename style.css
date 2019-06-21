@@ -1,0 +1,47 @@
+html{
+  background-color: aqua
+}
+
+.centerText{
+  text-align: center
+}
+
+#title{
+  color:   #FF5733 
+}
+
+#container{
+  margin-left: 32px;
+  display: flex;
+  justify-content: space-evenly
+}
+/* This is the hover element*/
+#projectText:hover{
+  cursor:  pointer;
+  color: #FF5733 
+}
+
+#techText:hover{
+  cursor:  pointer;
+  color: #FF5733 
+}
+
+#projectList{
+  text-align: center;
+  margin-top: 12px
+}
+
+#techList{
+  text-align: center;
+  margin-top: 12px
+}
+
+.linkText{
+  color: #FF5733;
+}
+
+
+#image{
+width: 200px;
+height: 200px;
+}
